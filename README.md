@@ -15,7 +15,7 @@
 
 <hr>
 
-- 👨‍🎓 Currently a Junior at **Deptartment of Computer Science and Technology, IIEST, Shibpur**
+- 👨‍🎓 Currently a Senior at **Deptartment of Computer Science and Technology, IIEST, Shibpur**
 - 💻 Prior experience with **Angular, React, JavaScript, Python, Flutter, C** and **C++**
 - 📫 Feel free to contact me **soham86das@gmail.com**
 
