@@ -15,8 +15,9 @@
 
 <hr>
 
-- 👨‍🎓 Currently a **Computer Science (B. Tech)** Graduate from **IIEST, Shibpur**
-- 💻 Prior experience with **Angular, React, JavaScript, Python, Flutter, C** and **C++**
+- 👨‍🎓 Currently a **Senior Analyst** in **Deutsche Bank** (2+ yrs of Full Stack development)
+- 💻 Prior experience with **React, Java, JavaScript, Python, C/C++**
+- 💻 Embracing AI Tools like Copilot and Gemini Code Assist in daily workflow
 - 📫 Feel free to contact me **soham86das@gmail.com**
 
 <hr>
